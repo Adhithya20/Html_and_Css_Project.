@@ -18,8 +18,11 @@ It includes multiple pages such as navigation, login/signup, and policy sections
 * Bootstrap
 
 📁 Project Structure
+                                                                                                                    
 project-folder
+
 1.nav.html  ---- # Main landing page with hero image
+
 2.index.html ---- # Login page
 3.insta2.html ---- # Signup page
 4.policy.html ---- # Terms & conditions
