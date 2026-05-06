@@ -24,10 +24,15 @@ project-folder
 1.nav.html  ---- # Main landing page with hero image
 
 2.index.html ---- # Login page
+
 3.insta2.html ---- # Signup page
+
 4.policy.html ---- # Terms & conditions
+
 5.nav.css  ----- # Styling for navbar & hero section
+
 6.insta.css  ---- # Styling for forms
+
 7.wildlife-photography.jpeg ---- # Background image
  
 ⚙️ How to Run
